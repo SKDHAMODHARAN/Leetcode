@@ -1,3 +1,1 @@
-
-# SQL
- THIS IS ALL ABOUT SQL
+SQL Practicing on Leetcode
